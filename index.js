@@ -4,7 +4,7 @@ import {getHash,onHashChange} from "https://cdn.jsdelivr.net/gh/jscroot/url@0.0.
 import {loading} from "https://cdn.jsdelivr.net/gh/jscroot/loading@0.0.1/croot.js";
 
 
-const title = "Repositori Surat Keputusan";
+const title = "Repositori Peraturan ULBI";
 const repoOrg = "repoulbi";
 const urlPDFViewer = "https://repo.ulbi.ac.id/view/#";
 
